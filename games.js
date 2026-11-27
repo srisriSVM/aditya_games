@@ -26,5 +26,12 @@ window.GAMES = [
     "description": "Jump through five 3D levels, customize scenes and build your own obstacle course.",
     "path": "games/neon-cube-dash/?v=3d-scenes",
     "image": "games/neon-cube-dash/cover.svg"
+  },
+  {
+    "title": "Flag Quest: World Adventure",
+    "category": "Learning / 3D Adventure",
+    "description": "Identify flags, fly around the world, defeat fantasy guardians and collect gold and passport stamps.",
+    "path": "games/flag-quest/",
+    "image": "games/flag-quest/cover.svg"
   }
 ];
