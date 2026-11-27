@@ -30,8 +30,8 @@ window.GAMES = [
   {
     "title": "Flag Quest: World Adventure",
     "category": "Learning / 3D Adventure",
-    "description": "Identify flags, fly around the world, defeat fantasy guardians and collect gold and passport stamps.",
-    "path": "games/flag-quest/",
+    "description": "Identify flags, track flights on a world GPS, defeat fantasy guardians and collect gold and passport stamps.",
+    "path": "games/flag-quest/?v=gps-2",
     "image": "games/flag-quest/cover.svg"
   }
 ];
