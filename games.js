@@ -9,8 +9,8 @@ window.GAMES = [
   {
     "title": "Formula Infinity 3D",
     "category": "Racing / Simulation",
-    "description": "Spray paint your F1 car and race eight AI drivers on an endless circuit.",
-    "path": "games/formula-infinity/",
+    "description": "Spray paint your F1 car, race through city curves, drift, jump and boost in first-person or chase view.",
+    "path": "games/formula-infinity/?v=cockpit",
     "image": "games/formula-infinity/cover.svg"
   }
 ];
