@@ -12,5 +12,12 @@ window.GAMES = [
     "description": "Spray paint your F1 car, race through city curves, drift, jump and boost in first-person or chase view.",
     "path": "games/formula-infinity/?v=cockpit",
     "image": "games/formula-infinity/cover.svg"
+  },
+  {
+    "title": "Godzilla: City Showdown 3D",
+    "category": "Action / Monster Simulator",
+    "description": "Smash empty skyscrapers with atomic breath and stomps, then defend the city in an arcade boss battle.",
+    "path": "games/godzilla-showdown/",
+    "image": "games/godzilla-showdown/cover.svg"
   }
 ];
